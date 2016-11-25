@@ -29,3 +29,7 @@
 
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
 - [ramda-fantasy](https://github.com/ramda/ramda-fantasy)
+
+## Linting
+
+- [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) by Bodil ([@bodil](https://twitter.com/bodil))
