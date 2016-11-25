@@ -7,6 +7,7 @@
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) by Kyle Simpson ([@getify](https://twitter.com/getify))
 
 ## Talks
+- [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 - [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo) by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 
 ## Articles
