@@ -28,6 +28,10 @@
 
 - [Ramda](http://ramdajs.com/)
 
+## Data Structures
+
+- [Immutable](https://github.com/facebook/immutable-js): *Immutable persistent data collections for Javascript*
+
 ## Other code
 
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
