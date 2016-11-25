@@ -8,7 +8,7 @@
 
 ## Talks
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
-- [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by Anjana Vakil
+- [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by Anjana Vakil ([@AnjanaVakil](https://twitter.com/AnjanaVakil))
 - [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo) by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 
 ## Articles
