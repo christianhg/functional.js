@@ -16,6 +16,7 @@
 - [The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/) by Jack Hsu ([@jay_soo](https://twitter.com/jay_soo))
 - [Functional Programming In JS — With Practical Examples (Part 1)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.6x691rile) by rajaraodv ([@rajadaodv](https://twitter.com/rajaraodv))
 - [Functional Programming In JS — With Practical Examples (Part 2)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e) by rajaraodv ([@rajadaodv](https://twitter.com/rajaraodv))
+- [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780) by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 
 ## People
 
