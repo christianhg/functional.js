@@ -34,10 +34,13 @@
 
 - [Immutable](https://github.com/facebook/immutable-js): *Immutable persistent data collections for Javascript*
 
-## Other code
+## Data Types
+
+- [ramda-fantasy](https://github.com/ramda/ramda-fantasy)
+
+## Specifications
 
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
-- [ramda-fantasy](https://github.com/ramda/ramda-fantasy)
 
 ## Linting
 
