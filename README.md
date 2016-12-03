@@ -28,15 +28,15 @@
 
 ## Libraries
 
-- [Ramda](http://ramdajs.com/)
+- [Ramda](http://ramdajs.com/) {[ramda](https://github.com/ramda/ramda)}
 
 ## Data Structures
 
-- [Immutable](https://github.com/facebook/immutable-js): *Immutable persistent data collections for Javascript*
+- [Immutable](https://facebook.github.io/immutable-js/) {[immutable-js](https://github.com/facebook/immutable-js)}: *Immutable persistent data collections for Javascript*
 
 ## Data Types
 
-- [ramda-fantasy](https://github.com/ramda/ramda-fantasy)
+- {[ramda-fantasy](https://github.com/ramda/ramda-fantasy)}
 
 ## Specifications
 
@@ -44,4 +44,4 @@
 
 ## Linting
 
-- [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) by Bodil ([@bodil](https://twitter.com/bodil))
+- {[eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs)} by Bodil ([@bodil](https://twitter.com/bodil))
