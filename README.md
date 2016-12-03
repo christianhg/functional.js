@@ -41,7 +41,9 @@ by Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 
 ## People
 
-- Mattias P. Johansson ([@mpjme](https://twitter.com/mpjme))
+- Mattias P. Johansson ([@mpjme](https://twitter.com/mpjme))<br>
+*His YouTube channel [funfunfunction](https://youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) started out as a series of vidoes on functional programming in JavaScript. Even though the ongoing weekly show has forked into multiple other programming related topics, it's a great resource of vidoes where the host does his best to demystify concepts like Functors, Monads and Higher-order functions.*
+
 - Brian Lonsdorf ([@drboolean](https://twitter.com/drboolean))
 - Kyle Simpson ([@getify](https://twitter.com/getify))
 
