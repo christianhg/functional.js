@@ -1,4 +1,4 @@
-# functional.js
+# functional.js 🔨
 
 > All the good stuff I gather about functional programming in JavaScript.
 
